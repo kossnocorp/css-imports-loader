@@ -1,0 +1,17 @@
+{
+  "name": "css-imports-loader",
+  "version": "0.1.1",
+  "description": "Shared imports stylesheet loader",
+  "main": "css_imports_loader.js",
+  "dependencies": {
+    "loader-utils": "^0.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kossnocorp/css-imports-loader"
+  },
+  "keywords": ["webpack"],
+  "author": "Sasha Koss <kossnocorp@gmail.com>",
+  "license": "MIT"
+}
+
